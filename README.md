@@ -1,10 +1,10 @@
-Hi, I’m @pscamodio, a software developer currently working at FARO Technologies with a focus on c++/typescript mixed development with the help of emscripten.
+Hi, I’m @pscamodio, a senior software developer currently working at FARO Technologies.
 
-Before I worked for 10 years at Open Technologies working on low level c++ library code and desktop application using mainly the Qt framework.
-I'm interested in:
-- Continuously trying new programming paradigms and languages
-- Singing
-- Cooking (with a focus on slow cooking like BBQ and Sous Vide)
-- Light Novels (last good one I have red is I Alone Level Up)
+Due to the different projects I worked on my exprties is quite varied:
+* I developed desktop applications in c++/Qt for most of my career, with a focus on project management and tooling (cmake/vcpkg)
+* I now work mostly as a frontend developer with Typescript/React
 
-For my job I’m currently learning typescript and everything around web development because my experience was mainly on desktop applications before.
+Addittionally I like to try and experiment with new technologies, so I dirtied my hand with:
+* Golang
+* Rust
+* Various frontend frameworks and libraries (NextJS, Vue, Svelte)
